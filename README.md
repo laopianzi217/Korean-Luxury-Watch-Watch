@@ -1,5 +1,5 @@
 ﻿# 로렉스 및 하이엔드 명품시계 중고 시세 가이드 (KR-02)
-$content = @"
+
 본 프로젝트는 한국 내 로렉스(Rolex), 파텍 필립(Patek Philippe), 오데마 피게(AP) 등 하이엔드 시계 브랜드의 전 세계 중고 시세 데이터를 분석하는 템플릿입니다.
 
 ## 주요 분석 브랜드
@@ -15,5 +15,4 @@ $content = @"
 ## 개발자 정보
 * **Framework**: Vanilla JS / HTML5
 * **Category**: E-commerce / Data Analysis
-"@
 
