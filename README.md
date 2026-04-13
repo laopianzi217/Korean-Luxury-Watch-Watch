@@ -17,7 +17,8 @@
 * 🇩🇪 [Germany Analysis](https://laopianzi217.github.io/de-watch-market-01/)
 * 🇮🇹 [Italy Trends](https://laopianzi217.github.io/it-watch-market-01/)
 * 🇹🇷 [Turkey Price Index](https://laopianzi217.github.io/tr-watch-market-01/)
-* 🇬🇧 [UK Market Hub](https://laopianzi217.github.io/uk-watch-market-01/)
+* 🇬🇧 [UK Market Hub](https://laopianzi217.github.io/Luxury-Watch-Market-Analysis-E-Commerce-Frontend-Template/)
+* 🇰🇷 [South Korea Tracker](https://laopianzi217.github.io/kr-watch-trade-01/)
 
 ---
 *Global Luxury Watch Index - 대한민국 시장 지원.*
