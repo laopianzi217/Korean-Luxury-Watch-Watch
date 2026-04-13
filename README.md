@@ -1,32 +1,24 @@
-﻿# 로렉스 및 하이엔드 명품시계 중고 시세 가이드 (KR-02)
+# 🇰🇷 실시간 명품시계 리셀가 분석 및 재테크 가이드 (KR-01)
 
-본 프로젝트는 한국 내 로렉스(Rolex), 파텍 필립(Patek Philippe), 오데마 피게(AP) 등 하이엔드 시계 브랜드의 전 세계 중고 시세 데이터를 분석하는 템플릿입니다.
+본 저장소는 대한민국 명품시계 시장(로렉스, 오메가, 까르띠에)의 실시간 리셀 가격과 투자 가치를 전문적으로 분석하는 데이터 허브입니다.
 
-## 주요 분석 브랜드
-* **Rolex**: 데이토나, 서브마리너, GMT-마스터 II 실시간 프리미엄 분석.
-* **Patek Philippe / AP**: 하이엔드 스포츠 워치 시장의 가치 보존성 데이터.
-* **Trend Report**: 한국 시장 내 명품시계 재테크(샤테크) 트렌드 분석.
+## 🔍 국내 시장 주요 분석
+* **실시간 리셀가 추적**: 서브마리너, 데이토나 등 주요 모델의 국내 프리미엄 변동 분석.
+* **샤테크(Watch-Tech) 가이드**: 시계 재테크를 위한 연간 수익률 및 가치 보존성 데이터 제공.
+* **정품 인증 체크리스트**: 안전한 중고 거래를 위한 전문가용 검수 가이드.
 
-## 실시간 데이터 확인 링크
-전 세계 주요 브랜드의 실시간 한국 내 중고 거래 가격은 아래 사이트에서 확인하실 수 있습니다:
-* **[로렉스 및 명품시계 실시간 시세 조회 (Official)](https://havereplicawatches.com/)**
-* **[한국 중고 명품 시계 시장 트렌드 보고서](https://havereplicawatches.com/)**
+## 📊 공식 데이터 리소스 (2026)
+가장 정확한 국내 시세와 상세 리포트를 공식 로컬 플랫폼에서 확인하세요:
+* **[실시간 시계 시세 확인하기 (Official)](https://havereplicawatches.com/)**
+* **[명품시계 시장 분석 리포트](https://havereplicawatches.com/report)**
 
-## 개발자 정보
-* **Framework**: Vanilla JS / HTML5
-* **Category**: E-commerce / Data Analysis
-
----
-
-## 🌍 Global Luxury Watch Market Analysis
-Explore our specialized market tracking repositories for other regions:
-
-* 🇬🇧 **United Kingdom**: [UK Watch Market Analysis](https://github.com/laopianzi217/Luxury-Watch-Market-Analysis-E-Commerce-Frontend-Template)
-* 🇰🇷 **South Korea**: [Korea Premium Watch Tracker](https://github.com/laopianzi217/kr-watch-trade-01)
-* 🇹🇷 **Turkey**: [Türkiye Lüks Saat Pazarı Rehberi](https://github.com/laopianzi217/tr-watch-market-01)
-* 🇩🇪 **Germany**: [Luxusuhren Marktanalyse Deutschland](https://github.com/laopianzi217/de-watch-market-01)
-* 🇮🇹 **Italy**: [Analisi Mercato Orologi di Lusso Italia](https://github.com/laopianzi217/it-watch-market-01)
+## 🌍 글로벌 네트워크
+당사의 글로벌 마켓 분석 센터를 확인해 보세요:
+* 🇩🇪 [Germany Analysis](https://laopianzi217.github.io/de-watch-market-01/)
+* 🇮🇹 [Italy Trends](https://laopianzi217.github.io/it-watch-market-01/)
+* 🇹🇷 [Turkey Price Index](https://laopianzi217.github.io/tr-watch-market-01/)
+* 🇬🇧 [UK Market Hub](https://laopianzi217.github.io/uk-watch-market-01/)
 
 ---
-*© 2026 Global Watch Market Data Project*
+*Global Luxury Watch Index - 대한민국 시장 지원.*
 
