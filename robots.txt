@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://laopianzi217.github.io/Korean-Luxury-Watch-Watch/sitemap.xml
