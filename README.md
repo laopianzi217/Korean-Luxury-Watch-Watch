@@ -14,10 +14,6 @@
 
 ## 🌍 글로벌 네트워크
 당사의 글로벌 마켓 분석 센터를 확인해 보세요:
-* 🇩🇪 [Germany Analysis](https://laopianzi217.github.io/de-watch-market-01/)
-* 🇮🇹 [Italy Trends](https://laopianzi217.github.io/it-watch-market-01/)
-* 🇹🇷 [Turkey Price Index](https://laopianzi217.github.io/tr-watch-market-01/)
-* 🇬🇧 [UK Market Hub](https://laopianzi217.github.io/Luxury-Watch-Market-Analysis-E-Commerce-Frontend-Template/)
 * 🇰🇷 [South Korea Tracker](https://laopianzi217.github.io/kr-watch-trade-01/)
 
 ---
