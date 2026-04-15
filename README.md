@@ -12,10 +12,14 @@
 * **[실시간 시계 시세 확인하기 (Official)](https://havereplicawatches.com/)**
 * **[명품시계 시장 분석 리포트](https://havereplicawatches.com/report)**
 
-## 🌍 글로벌 네트워크
-당사의 글로벌 마켓 분석 센터를 확인해 보세요:
-* 🇰🇷 [South Korea Tracker](https://laopianzi217.github.io/kr-watch-trade-01/)
-
 ---
-*Global Luxury Watch Index - 대한민국 시장 지원.*
+## Global Luxury Watch Market Network
+Our intelligence network monitors high-end horology trends across major global hubs:
 
+* 🇬🇧 [United Kingdom Market Report](https://starry-211534.github.io/UK-Watch-Market-Report-2026/)
+* 🇰🇷 [South Korea Market Analysis](https://laopianzi217.github.io/kr-watch-trade-01/)
+* 🇹🇷 [Türkiye Saat Pazarı İstihbaratı](https://rosangone.github.io/tr-watch-market-01/)
+* 🇩🇪 [Deutschland Luxusuhren-Analyse](https://w-he-corp.github.io/de-watch-market-01/)
+* 🇮🇹 [Analisi Mercato Orologi Italia](https://technology-enthusiast-he.github.io/it-watch-market-01/)
+
+**Official Data Source:** [https://replicawatcheslive.top/](https://replicawatcheslive.top/)
